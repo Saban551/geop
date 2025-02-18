@@ -29,3 +29,7 @@ FRE = {
 	color = rgb { 60 87 125 }
 	color_ui = rgb { 60 87 125 }
 }
+USJ = {
+	color = rgb { 0 45 125 }
+	color_ui = rgb { 0 45 125 }
+}
