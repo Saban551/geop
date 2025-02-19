@@ -29,3 +29,7 @@ FRE = {
 	color = rgb { 60 87 125 }
 	color_ui = rgb { 60 87 125 }
 }
+KOC = {
+	color = rgb	= { 213 0 50 }
+	color_ui = rgb { 213 0 50 }
+}

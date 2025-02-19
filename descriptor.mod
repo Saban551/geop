@@ -4,7 +4,6 @@ tags={
 	"Ideologies"
 }
 name="Geopolitica 2.0"
-supported_version="1.15.4"
 replace_path="common/characters"
 replace_path="common/units"
 replace_path="common/raids"
@@ -18,3 +17,4 @@ replace_path="common/on_actions"
 replace_path="gfx/flags"
 replace_path="gfx/leaders"
 replace_path="common/national_focus"
+supported_version="1.15.4"
