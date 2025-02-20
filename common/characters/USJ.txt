@@ -3,8 +3,7 @@ characters = {
         name = "Irruent"
         portraits = {
             civilian = {
-                large = "USA_portrait_Irruent"
-                small = "USA_portrait_Irruent_small"
+                large = "GFX_Irruent"
             }
         }
         country_leader = {
@@ -18,8 +17,7 @@ characters = {
         name = "Oklii"
         portraits = {
             civilian = {
-                large = "USA_portrait_oklii"
-                small = "USA_portrait_small_Oklii"
+                large = "GFX_oklii"
             }
         }
         advisor = {
@@ -39,8 +37,8 @@ characters = {
         name = "RobertE"
         portraits = {
             civilian = {
-                large = "USA_portrait_RobertE"
-                small = "USA_portrait_RobertE_small"
+                large = "GFX_RobertE"
+                small = "GFX_RobertE_small"
             }
         }
         advisor = {
@@ -62,8 +60,8 @@ characters = {
         name = "Krza"
         portraits = {
             civilian = {
-                large = "USA_portrait_Krza"
-                small = "USA_portrait_Krza_small"
+                large = "GFX_Krza"
+                small = "GFX_Krza_small"
             }
         }
         advisor = {
@@ -82,8 +80,7 @@ characters = {
         name = "Huey Long"
         portraits = {
             civilian = {
-                large = "USA_portrait_Huey"
-                small = "USA_portrait_Huey_small"
+                large = "GFX_Huey"
             }
         }
         country_leader = {
@@ -97,8 +94,7 @@ characters = {
         name = "Southbum"
         portraits = {
             civilian = {
-                large = "USA_portrait_Southbum"
-                small = "USA_portrait_small_Southbum"
+                large = "GFX_Southbum"
             }
         }
         advisor = {
@@ -130,8 +126,7 @@ characters = {
         name = "Finalboy"
         portraits = {
             civilian = {
-                large = "USA_portrait_Final"
-                small = "USA_portrait_small_Final"
+                large = "GFX_Final"
             }
         }
         corps_commander = {
@@ -152,8 +147,7 @@ characters = {
         name = "LividScoll99"
         portraits = {
             civilian = {
-                large = "USA_portrait_Livid"
-                small = "USA_portrait_small_Livid"
+                large = "GFX_Livid"
             }
         }
         corps_commander = {
@@ -171,8 +165,7 @@ characters = {
         name = "Nick"
         portraits = {
             civilian = {
-                large = "USA_portrait_Nick"
-                small = "USA_portrait_small_Nick"
+                large = "GFX_Nick"
             }
         }
         advisor = {
@@ -188,8 +181,7 @@ characters = {
         name = "Zrex"
         portraits = {
             civilian = {
-                large = "USA_portrait_Zrex"
-                small = "USA_portrait_small_Zrex"
+                large = "GFX_Zrex"
             }
         }
         advisor = {
@@ -205,8 +197,7 @@ characters = {
         name = "Quimnm"
         portraits = {
             civilian = {
-                large = "USA_portrait_Quimnm"
-                small = "USA_portrait_small_Quimnm"
+                large = "GFX_Quimnm"
             }
         }
         advisor = {

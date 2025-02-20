@@ -1,5 +1,4 @@
 spriteTypes = {
-	# GEOPOLITICA STUFF
 	
 	spriteType = {
 		name = "GFX_unknown_portrait"
@@ -20,98 +19,28 @@ spriteTypes = {
 		name = "GFX_portrait_FAZ_hendrik_baumer"
 		texturefile = "gfx/leaders/FAZ/Portrait_Fazborea_Hendrik_Baumer.dds"
 	}
-		}
 	spriteType = {
-		name = "USA_portrait_Irruent"
-		texturefile = "gfx/leaders/USA/Irruent_Large.dds"
+		name = "GFX_Irruent"
+		texturefile = "gfx/leaders/USA/Irruent.dds"
 	}
 	spriteType = {
-		name = "USA_portrait_Irruent_small"
-		texturefile = "gfx/leaders/USA/Irruent_small.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Huey"
-		texturefile = "gfx/leaders/USA/Huey.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Huey_small"
-		texturefile = "gfx/leaders/USA/small_Huey.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Krza"
-		texturefile = "gfx/leaders/USA/Krza.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Krza_small"
-		texturefile = "gfx/leaders/USA/small_Krza.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_RobertE"
-		texturefile = "gfx/leaders/USA/RobertE.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_RobertE_small"
-		texturefile = "gfx/leaders/USA/small_RobertE.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Nick"
-		texturefile = "gfx/leaders/USA/Nick.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_small_Nick"
-		texturefile = "gfx/leaders/USA/small_Nick.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Southbum"
-		texturefile = "gfx/leaders/USA/Southbum.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_small_Southbum"
-		texturefile = "gfx/leaders/USA/small_Southbum.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_small_Final"
-		texturefile = "gfx/leaders/USA/small_Final.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Final"
+		name = "GFX_Final"
 		texturefile = "gfx/leaders/USA/Final.dds"
-	}
+	}	
 	spriteType = {
-		name = "USA_portrait_Livid"
-		texturefile = "gfx/leaders/USA/Livid.dds"
-	}
+		name = "GFX_Nick"
+		texturefile = "gfx/leaders/USA/Nick.dds"
+	}	
 	spriteType = {
-		name = "USA_portrait_small_Livid"
-		texturefile = "gfx/leaders/USA/small_livid.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_oklii"
-		texturefile = "gfx/leaders/USA/Oklii.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_small_Oklii"
-		texturefile = "gfx/leaders/USA/small_Oklii.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_small_Quimnm"
-		texturefile = "gfx/leaders/USA/small_Quimnm.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_Quimnm"
+		name = "GFX_Quimnm"
 		texturefile = "gfx/leaders/USA/Quimnm.dds"
-	}
+	}	
 	spriteType = {
-		name = "USA_portrait_Zrex"
+		name = "GFX_Zrex"
 		texturefile = "gfx/leaders/USA/Zrex.dds"
-	}
-	spriteType = {
-		name = "USA_portrait_small_Zrex"
-		texturefile = "gfx/leaders/USA/small_Zrex.dds"
-	}
-	spriteType = {
-		name = "TNDylan_portrait"
-		texturefile = "gfx/leaders/USA/dylan.dds"
-
-	
+	}	
+		spriteType = {
+		name = "GFX_Southbum"
+		texturefile = "gfx/leaders/USA/Southbum.dds"
+	}	
 }
